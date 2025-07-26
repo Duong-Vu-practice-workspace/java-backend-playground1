@@ -1,2 +1,2 @@
 # to produce messages
-kafka-console-producer --bootstrap-server localhost:9092 --topic hello-world
+kafka-console-producer.sh --bootstrap-server localhost:9092 --topic hello-world
